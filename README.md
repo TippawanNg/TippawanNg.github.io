@@ -10,9 +10,4 @@
 * Participated in the FutureTech program on the topic: "Web Application Design Skills." [Click](img/ทิพวรรณ_งบกระโทก.pdf)
 * Participated in the LINK Certified Network Cabling for Engineering training. [Click](img/Date_of_Valid_04_October_2026.pdf)
 
----
-
-# My Transcript
-* Transcript [Click](img/transcript_30000108295.pdf)
-
 
